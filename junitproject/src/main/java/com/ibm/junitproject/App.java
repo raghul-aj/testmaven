@@ -12,6 +12,6 @@ public class App
     {
     	System.out.println(StringUtils.capitalize("welcome to maven, rahul."));
     	System.out.println(StringUtils.deleteWhitespace("hey  hi"));
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World! subbu" );
     }
 }
